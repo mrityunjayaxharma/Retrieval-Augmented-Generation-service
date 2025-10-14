@@ -70,4 +70,8 @@ A: Not enough information available in the crawled content.
 ----------------------------------------------------------------------
 Ran 3 tests in 22.789s
 
+
 OK
+_______________________________________________________________________________________________________
+
+for command line interface run cli.py in this format "python cli.py https://docs.python.org/3/ --max-pages 30 --max-depth 2"
