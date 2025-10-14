@@ -73,12 +73,6 @@ What is Python?
 
 How do you define a function in Python?
 
-What are Python’s built-in data types?
-
-What is a lambda function in Python?
-
-How do I install Python modules?
-
 What is the weather today? (Expected refusal)
 
 Evaluation
